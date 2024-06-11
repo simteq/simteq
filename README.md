@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on... On.... 
 
-- Im rly noob on code, but i learn python, and i can write codes for github. 
-I think, code for pygame, or telebot will be. 
+- i learn python, and i can write codes for github. 
+I think, code for disnake or telegram bot will be. 
 <!---
 simteq/simteq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
